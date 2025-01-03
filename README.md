@@ -2,6 +2,7 @@
 
 <p align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczY0eHNzejBlcjQ3Y2d2M2RmNjVub3VyYzU4YmRpeWtsbXR0NTRubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="News Scraper Animation"> </p>
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-3.141.0-green)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.9.3-yellow)
