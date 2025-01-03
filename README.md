@@ -1,7 +1,7 @@
 # 📰 News Article Scraper
 
 <p align="center">
-<img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" alt="News Scraper Animation"> </p>
+<img src="https://media.giphy.com/media/l4FGwHEUCGILzIEhu/giphy.gif" alt="News Scraper Animation"> </p>
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-3.141.0-green)
